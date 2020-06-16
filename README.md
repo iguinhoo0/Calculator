@@ -2,6 +2,8 @@ PROJETO DE ESTUDO
 
 CALCULADORA DO IPHONE
 
+REACT JS
+
 ### `npm start`
 
 Runs the app in the development mode.<br />
